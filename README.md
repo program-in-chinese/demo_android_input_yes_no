@@ -62,4 +62,5 @@ public class 好不键盘 extends InputMethodService {
 
 #### 参考
 
-安卓官方[示例输入法项目](https://github.com/android/input-samples/tree/master/CommitContentSampleIME)
+- 安卓官方[示例输入法项目](https://github.com/android/input-samples/tree/master/CommitContentSampleIME)
+- [Learn to create a System Keyboard on Android](https://medium.com/@ssaurel/learn-to-create-a-system-keyboard-on-android-95aca21b1e5f)
