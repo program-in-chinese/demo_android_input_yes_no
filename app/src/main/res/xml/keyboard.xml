@@ -2,11 +2,10 @@
 
     <Row>
         <Key
-            android:codes="49"
-            android:keyEdgeFlags="left"
+            android:codes="1"
             android:keyLabel="好" />
         <Key
-            android:codes="50"
+            android:codes="2"
             android:keyLabel="不" />
     </Row>
 </Keyboard>
